@@ -19,7 +19,7 @@ bg=magenta</panel_attributes>
       <x>650</x>
       <y>260</y>
       <w>26</w>
-      <h>312</h>
+      <h>364</h>
     </coordinates>
     <panel_attributes>
 bg=magenta</panel_attributes>
@@ -113,7 +113,7 @@ return</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>351</x>
-      <y>533</y>
+      <y>585</y>
       <w>325</w>
       <h>52</h>
     </coordinates>
@@ -336,5 +336,30 @@ RemoveGoods(uid, index)</panel_attributes>
     <panel_attributes>lt=&lt;-
 return</panel_attributes>
     <additional_attributes>10.0;20.0;290.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>676</x>
+      <y>559</y>
+      <w>260</w>
+      <h>65</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+ShowProperties(null)</panel_attributes>
+    <additional_attributes>10.0;30.0;50.0;30.0;50.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>663</x>
+      <y>559</y>
+      <w>26</w>
+      <h>52</h>
+    </coordinates>
+    <panel_attributes>
+bg=blue
+layer=2</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
