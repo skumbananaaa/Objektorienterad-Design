@@ -1,1 +1,0 @@
-# Objektorienterad-Design
